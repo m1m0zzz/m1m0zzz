@@ -3,8 +3,8 @@
 **composer / developer**
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m1m0zzz&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1m0zzz&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m1m0zzz&show_icons=ture&theme=transparent" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1m0zzz&layout=compact&show_icons=true&theme=transparent" />
 </p>
 
 ### ⚡ Skills
